@@ -10,5 +10,6 @@ build/
 build-*/
 docgen_tmp/
 .zig-cache/
+.env
 
 # End of https://www.toptal.com/developers/gitignore/api/zig
